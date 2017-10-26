@@ -1,5 +1,5 @@
 # Serverless hello world
-This is an example hello world api created with the serverless framework that runs on AWS Lambda. If deployed to AWS an API Gateway with the specified http path of the Lambda, which is specified in the serverless.yml file.
+This is an example hello world api created with the serverless framework that runs on AWS Lambda. If deployed to AWS an API Gateway gets also created with the specified http path of the Lambda(in the serverless.yml).
 
 
 ## Prerequisites
